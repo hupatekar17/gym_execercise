@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Site is deployed at the link : https://gym-app-harsh.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
